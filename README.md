@@ -11,11 +11,11 @@ In `.bashrc` add line `. xhist`.
 
 # Usage
 
-## to fetch whole folder history
+fetching whole folder history
 
 `$xhist`
 
-## to filter commads by `keyword`
+Filter commads by `keyword`
 
 `xhist keyword`
 
